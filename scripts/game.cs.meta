@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 63a279e6fc7a5414b987ce86c5c30508
+timeCreated: 1493204575
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - croix_rouge: {fileID: 1745419821187832, guid: 48f263953233e7b4392e0f17b8fbaaad,
+      type: 2}
+  - croix_bleu: {fileID: 1006522792261284, guid: 56c9ce62f6a1d6a4aaf30d86f3089ac7,
+      type: 2}
+  - vertical_bleu: {fileID: 1887160007996010, guid: da17d39a55de51f44870e302b31e5e8e,
+      type: 2}
+  - horizental_bleu: {fileID: 1027676600211984, guid: f398093cc96c39640afd78a31beb91bb,
+      type: 2}
+  - vertical_rouge: {fileID: 1681193565944356, guid: 00f8983efae12e54dbd612c54ae0bc3f,
+      type: 2}
+  - horizental_rouge: {fileID: 1217046723305258, guid: c5a40d5259f8c3840b0524520c678c40,
+      type: 2}
+  - init: {instanceID: 0}
+  - player1ScoreText: {instanceID: 0}
+  - player2ScoreText: {instanceID: 0}
+  - winner1: {instanceID: 0}
+  - winner2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
